@@ -1,15 +1,23 @@
-<p>
-<a href="#item1">problema</a>
-<a href="#item2">causa</a>
-<a href="#item3">solução</a>
-<a href="#defalult">clear</a>
+<style>
+	div.abas p
+{
+	display:none
+}
+div.abas p:target
+{
+	display:block
+}
+ </style>
+<a href="#abas1">pastel </a
+<a href="#abas2">coxinha </a
+<a href="#abas3">pizza </a
+<a href="#defalut">limpar </a
 
-<div classe="itens">
-
- <p id="item1">salve </p>
- <p id="item2">meu nome é antony</p>
- <p id="item3">salve..item3...
-
-<p id="defalt"><!-by defalt,shou n </p>
-
+<div class="abas">
+	<p id="abas1">ola</p>
+	<p id="abas2">fala rapaziada</p>
+	<p id="abas3">não sei</p>
+	<p id="defalut"></p>
+	
 </div>
+	
